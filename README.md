@@ -16,9 +16,9 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing
 
-After getting the file and dependencies together, you'll want to run the populate json files first. - this will run through all the state park pages on wikipedia and build json docs with the data
+After getting the file and dependencies together, you'll want to run the populateLocalJsonFiles() first. - this will run through all the state park pages on wikipedia and build json docs with the data.
 
-once you have the base docs on your machine, run the data through openAndReadStateParkJson() - this will use the locally stored files to make calls to Google Places API
+Once you have the base docs on your machine, run the data through openAndReadStateParkJson() - this will use the locally stored files to make calls to Google Places API
 
 ## Running the tests
 
