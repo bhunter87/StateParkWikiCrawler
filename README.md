@@ -1,4 +1,4 @@
-# Project Title
+# StateParkWikiCrawler
 
 A simple crawler/scraper setup to grab all the state park names from wikipedia, then compiles, restuructures, and runs through google places API
 
